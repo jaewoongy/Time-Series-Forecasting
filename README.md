@@ -1,3 +1,5 @@
+REFER TO https://rpubs.com/Jaewoong/1023240 FOR VISUALIZATIONS
+
 174 Stock Analysis Project
 ================
 
