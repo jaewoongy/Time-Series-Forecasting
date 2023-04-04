@@ -1,4 +1,4 @@
-REFER TO https://rpubs.com/Jaewoong/1023240 FOR VISUALIZATIONS
+# REFER TO https://rpubs.com/Jaewoong/1023240 which includes the plots
 
 174 Stock Analysis Project
 ================
