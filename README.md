@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Assessing Time Series Models in Predicting Stock Market Trends</title>
 </head>
 <body>
     <h1>Welcome to My Research Project Showcase</h1>
